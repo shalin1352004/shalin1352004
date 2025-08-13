@@ -16,8 +16,8 @@
 ## 📌 Featured Projects  
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🔍 AI Image Classifier](#) | A deep learning project for image classification with 95% accuracy. | Python, TensorFlow |
-| [📊 Stock Price Predictor](#) | Predicts stock prices using LSTM neural networks. | Python, Keras |
+| [🔍NextGen Buy ](#)| A Website to buy Accessories online | Python, Django|
+| [📊 Student Management System](#) | Managing student data| Python, Django|
 | [💬 Chatbot Assistant](#) | An AI-powered chatbot for personalized conversations. | Python, NLP |
 
 ---
@@ -37,9 +37,9 @@
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalinmodi60)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://YOUR_PORTFOLIO_URL)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shalinmodi60@gmail.com)  
 
 ---
 
