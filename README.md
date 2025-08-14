@@ -8,9 +8,8 @@
 
 ## 🛠 Tech Stack  
 **Languages:** Python, JavaScript, C++  
-**Frameworks & Libraries:** TensorFlow, PyTorch, React, Node.js  
-**Tools & Platforms:** Git, Docker, AWS, Google Cloud, Linux  
-
+**Frameworks & Libraries:** TensorFlowe, PyTorch, React, Node.js  
+**Tools & Platforms:** Git, vscode, cloudinary 
 ---
 
 ## 📌 Featured Projects  
