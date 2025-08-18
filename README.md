@@ -17,13 +17,13 @@
 |---------|-------------|------|
 | [🔍NextGenBuy ](#)| A Website to buy Accessories online | Python, Django|
 | [📊 Student Management System](#) | Managing student data| Python, Django|
-| [SkillSwapper](#) | An Project for swapping skills under odoo hackathon@2025. | Python, Django |
+| [</> SkillSwapper](#) | An Project for swapping skills under odoo hackathon@2025. | Python, Django |
 
 ---
 ## 📌 Internship 
 | Company | Period | Technology |
 |---------|-------------|------|
-| [🔍Grownited pvt. ltd.](#)| 3 MONTHS | Python,FARM stack|
+| [🌐 Grownited pvt. ltd.](https://grownited.com/)| 3 MONTHS | Python,FARM stack|
 
 ## 📈 GitHub Stats  
 ![Shalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalin1352004&show_icons=true&theme=tokyonight)  
