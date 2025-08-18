@@ -8,8 +8,8 @@
 
 ## 🛠 Tech Stack  
 **Languages:** Python, JavaScript, C++  
-**Frameworks & Libraries:** TensorFlowe, PyTorch, React, Node.js  
-**Tools & Platforms:** Git, vscode, cloudinary 
+**Frameworks & Libraries:** React,Django,FARM stack  
+**Tools & Platforms:** Git, VSCode, cloudinary 
 ---
 
 ## 📌 Featured Projects  
@@ -20,6 +20,10 @@
 | [SkillSwapper](#) | An Project for swapping skills under odoo hackathon@2025. | Python, Django |
 
 ---
+## 📌 Internship 
+| Company | Period | Technology |
+|---------|-------------|------|
+| [🔍Grownited pvt. ltd.](#)| 3 MONTHS | Python,FARM stack|
 
 ## 📈 GitHub Stats  
 ![Shalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalin1352004&show_icons=true&theme=tokyonight)  
