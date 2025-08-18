@@ -42,7 +42,8 @@
 ## 📫 Connect With Me  
 | LinkedIN | Portfolio | Email |
 |---------|-------------|------|
-|[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalinmodi60)  |[![Portfolio](https://img.shields.io/badge/Portfolio-000style=flat&logo=github&logoColor=white)](https://shalin1352004.github.io/Portfolio-Shalin/) |[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shalinmodi60@gmail.com) |
+|[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalinmodi60)  |[![Portfolio](https://img.shields.io/badge/Portfolio-000style=flat&logo=github&logoColor=white)](https://shalin1352004.github.io/Portfolio-Shalin/) |
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shalinmodi60@gmail.com)|
 
  
 
