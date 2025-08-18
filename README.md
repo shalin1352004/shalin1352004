@@ -7,7 +7,7 @@
 ---
 
 ## 🛠 Tech Stack  
-**Languages:** Python, JavaScript, C++  
+**Languages:** Python, JavaScript,JAVA
 **Frameworks & Libraries:** React,Django,FARM stack  
 **Tools & Platforms:** Git, VSCode, cloudinary 
 ---
