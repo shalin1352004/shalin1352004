@@ -7,7 +7,7 @@
 ---
 
 ## 🛠 Tech Stack  
-**Languages:** Python, JavaScript,JAVA
+**Languages:** Python,JAVA
 **Frameworks & Libraries:** React,Django,FARM stack  
 **Tools & Platforms:** Git, VSCode, cloudinary 
 ---
@@ -23,7 +23,7 @@
 ## 📌 Internship 
 | Company | Period | Technology |
 |---------|-------------|------|
-| [🌐 Grownited pvt. ltd.](https://grownited.com/)| 3 MONTHS | Python,FARM stack|
+| [🌐 Grownited private ltd.](https://grownited.com/)| 3 MONTHS | Python,FARM(FAST API,MONGODB ,ReactJS stack , cloudinary,Razorpay)|
 
 ## 📈 GitHub Stats  
 ![Shalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalin1352004&show_icons=true&theme=tokyonight)  
