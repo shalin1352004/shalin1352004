@@ -23,7 +23,7 @@
 ## 📌 Internship 
 | Company | Period | Technology |
 |---------|-------------|------|
-| [🌐 Grownited private ltd.](https://grownited.com/)| 3 MONTHS | Python,FARM(FAST API,MONGODB ,ReactJS stack , cloudinary,Razorpay)|
+| [🌐 Grownited private ltd.](https://grownited.com/)| 3 MONTHS | Python,FARM stack(FAST API,MONGODB ,ReactJS, cloudinary,Razorpay)|
 
 ## 📈 GitHub Stats  
 ![Shalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalin1352004&show_icons=true&theme=tokyonight)  
