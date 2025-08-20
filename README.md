@@ -9,7 +9,7 @@
 ## 🛠 Tech Stack  
 **Languages:** Python,JAVA
 **Frameworks & Libraries:** React,Django,FARM stack  
-**Tools & Platforms:** Git, VSCode, cloudinary 
+**Tools & Platforms:** Git, VSCode, cloudinary, Render 
 ---
 
 ## 📌 Featured Projects  
