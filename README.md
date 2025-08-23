@@ -46,10 +46,6 @@
 | Portfolio |[![Portfolio](https://img.shields.io/badge/Portfolio-000style=flat&logo=github&logoColor=white)](https://shalin1352004.github.io/Portfolio-Shalin/) |
 | Email |[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shalinmodi60@gmail.com)|
 
-
-
- 
-
 ---
 
 💬 *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
