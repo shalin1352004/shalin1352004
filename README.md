@@ -33,9 +33,7 @@
 ---
 
 ## 🌱 Currently Learning  
-- **Advanced Machine Learning** techniques  
-- **Cloud-native development** with Kubernetes  
-- **Generative AI** for creative applications  
+-**FastAPI developement**
 
 ---
 
