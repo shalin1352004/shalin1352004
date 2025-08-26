@@ -15,8 +15,8 @@
 ## 📌 Featured Projects  
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🔍NextGenBuy ](#)| A Website to buy Accessories online | Python, Django|
-| [📊 Student Management System](#) | Managing student data| Python, Django|
+| [NextGenBuy ](#)| A Website to buy Accessories online | Python, Django|
+| [Student Management System](#) | Managing student data| Python, Django|
 | [</> SkillSwapper](#) | An Project for swapping skills under odoo hackathon@2025. | Python, FastAPI |
 
 ---
