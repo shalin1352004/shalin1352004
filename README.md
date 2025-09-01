@@ -10,7 +10,7 @@
 **Languages:** Python,JAVA
 
 **Frameworks & Libraries:** React,Django,FARM stack  
-**Tools & Platforms:** Git, VSCode, cloudinary, Render 
+**Tools & Platforms:** Git,Github,VSCode,cloudinary,Render,Postman
 ---
 
 ## 📌 Featured Projects  
