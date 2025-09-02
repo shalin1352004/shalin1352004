@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shalin Modi</h1>
 <h3 align="center">AI/ML Enthusiast | Software Developer | Lifelong Learner</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shalin1352004&label=Profile%20Views&color=blue&style=flat" alt="visitor badge"/>
+</p>
+
 ---
 
 ## 🚀 About Me
