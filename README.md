@@ -29,47 +29,37 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics  
 
-### ⚡ General Stats
+### ⚡ General Stats & Streaks  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalin1352004&show_icons=true&theme=tokyonight&count_private=true" alt="Shalin's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shalin1352004&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalin1352004&theme=tokyonight" height="170"/>
 </p>
 
-### 🔥 Streaks
+### 📊 Languages & Repos  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalin1352004&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalin1352004&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shalin1352004&theme=tokyonight" height="170"/>
 </p>
 
-### 📊 Languages Used
+### 📉 Commit Insights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalin1352004&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shalin1352004&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shalin1352004&theme=tokyonight&utcOffset=+5.5" height="170"/>
 </p>
 
-### 📉 Contribution Graph
+### 🔥 Contribution Graph & Trophies  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shalin1352004&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shalin1352004&theme=tokyo-night" width="95%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shalin1352004&theme=tokyonight&row=1&column=6" width="95%"/>
 </p>
 
-### 🏆 Achievements & Trophies
+### 📜 Profile Overview  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shalin1352004&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
-### ⏰ Productivity Breakdown
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shalin1352004&theme=tokyonight&utcOffset=+5.5" alt="Productive Time" />
-</p>
-
-### 📂 Repo Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shalin1352004&theme=tokyonight" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shalin1352004&theme=tokyonight" alt="Most commit language" />
-</p>
-
-### 📜 Profile Overview
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shalin1352004&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shalin1352004&theme=tokyonight" width="95%"/>
 </p>
 
 ---
