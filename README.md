@@ -17,15 +17,23 @@
 
 ---
 
-## 📌 Featured Projects
-- [NextGenBuy](#) → E-commerce website to buy accessories online *(Python, Django)*  
-- [Student Management System](#) → Manage student data with result analysis *(Python, Django)*  
-- [SkillSwapper](#) → Skill swapping platform for Odoo Hackathon 2025 *(Python, FastAPI)*  
+## 📌 Featured Projects  
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **NextGenBuy** | E-commerce website to buy accessories online | Python, Django | [🔗 View](#) |
+| **Student Management System** | Manage student data with result analysis | Python, Django | [🔗 View](#) |
+| **SkillSwapper** | Skill swapping platform (Odoo Hackathon 2025) | Python, FastAPI | [🔗 View](#) |
+| **ClassyKicks** | Shoe store with brand/price filters & responsive design | Django, PostgreSQL, TailwindCSS | [🔗 View](#) |
+| **Two-Wheeler Rental System** | Rental booking & backend system | Java | [🔗 View](#) |
 
 ---
 
-## 💼 Internship
-- 🌐 [Grownited Private Ltd.](https://grownited.com/) (3 Months) → *Python, FARM Stack (FastAPI, MongoDB, ReactJS, Cloudinary, Razorpay)*  
+## 💼 Internship  
+
+| Company | Period | Technology |
+|---------|--------|------------|
+| 🌐 [Grownited Private Ltd.](https://grownited.com/) | 3 Months | Python, FARM Stack (FastAPI, MongoDB, ReactJS, Cloudinary, Razorpay) |
 
 ---
 
@@ -64,7 +72,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/shalinmodi60">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
