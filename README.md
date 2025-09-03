@@ -5,7 +5,7 @@
 <h3 align="center">🤖 AI/ML Enthusiast | 💻 Software Developer | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shalin1352004&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=shalin1352004&label=Profile%20Views&color=ff694&style=for-the-badge" alt="visitor badge"/>
 </p>
 
 ---
