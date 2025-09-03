@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Software+Developer;AI%2FML+Enthusiast;Lifelong+Learner;FastAPI+%2B+Cloud+Integrations" alt="Typing SVG" />
 </h3>
 
-<p align="center">
+<p align="right">
   
 ## 🌐 Connect With Me
 
