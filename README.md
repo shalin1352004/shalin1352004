@@ -18,15 +18,11 @@
   <a href="mailto:shalinmodi60@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=shalin1352004&label=Profile%20Views&color=ff6964&style=for-the-badge" alt="visitor badge"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shalin1352004&label=Profile%20Views&color=ff6964&style=for-the-badge" alt="visitor badge"/>
-  
-</p>
-
----
 
 ## 🚀 About Me  
 💡 Passionate about **AI, ML, and Innovative Software Development**  
