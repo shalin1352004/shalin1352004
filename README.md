@@ -4,7 +4,7 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Software+Developer;AI%2FML+Enthusiast;Lifelong+Learner;FastAPI+%2B+Cloud+Integrations" alt="Typing SVG" />
 </h3>
-
+---
 <p align="center">
 ## 🌐 Connect With Me
 
@@ -22,7 +22,7 @@
     <img src="https://komarev.com/ghpvc/?username=shalin1352004&label=Profile%20Views&color=ff6964&style=for-the-badge" alt="visitor badge"/>
   </a>
 </p>
-
+---
 
 ## 🚀 About Me  
 💡 Passionate about **AI, ML, and Innovative Software Development**  
@@ -69,7 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalin1352004&layout=compact&theme=gruvbox&langs_count=10" width="45%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shalin1352004&theme=solarized_dark&utcOffset=5.5" width="45%"/>
 </p>
-
+---
 ### 🔥 Contributions & Achievements
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shalin1352004&theme=github-compact&bg_color=0f0c29&color=ff0080&line=00c6ff&point=ffffff" width="95%"/>
