@@ -6,7 +6,8 @@
 </h3>
 ---
 <p align="center">
-## 🌐 Connect With Me
+
+  ## 🌐 Connect With Me
 
 ---
   <a href="https://linkedin.com/in/shalinmodi60">
