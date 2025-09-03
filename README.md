@@ -21,7 +21,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,django,fastapi,react,mongodb,git,github,vscode,postman,cloudinary,render&perline=10" />
 </p>
----
+
+
 
 ## 📌 Featured Projects
 | 🏆 Project | 📖 Description | ⚙️ Tech Stack | 🔗 Link |
