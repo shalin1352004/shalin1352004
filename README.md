@@ -8,7 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=shalin1352004&label=Profile%20Views&color=ff6964&style=for-the-badge" alt="visitor badge"/>
 </p>
 
----
 
 ## 🚀 About Me
 💡 Passionate about **AI, ML, and Innovative Software Development**  
