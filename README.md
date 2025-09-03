@@ -4,7 +4,6 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Software+Developer;AI%2FML+Enthusiast;Lifelong+Learner;FastAPI+%2B+Cloud+Integrations" alt="Typing SVG" />
 </h3>
----
 <p align="center">
 
   ## 🌐 Connect With Me
@@ -22,7 +21,7 @@
     <img src="https://komarev.com/ghpvc/?username=shalin1352004&label=Profile%20Views&color=ff6964&style=for-the-badge" alt="visitor badge"/>
   </a>
 </p>
----
+
 
 ## 🚀 About Me  
 💡 Passionate about **AI, ML, and Innovative Software Development**  
