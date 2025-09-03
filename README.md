@@ -3,10 +3,22 @@
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Software+Developer;AI%2FML+Enthusiast;Lifelong+Learner;FastAPI+%2B+Cloud+Integrations" alt="Typing SVG" />
+  <a href="https://linkedin.com/in/shalinmodi60">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://shalin1352004.github.io/Portfolio-Shalin/">
+    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+  <a href="mailto:shalinmodi60@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shalin1352004&label=Profile%20Views&color=ff6964&style=for-the-badge" alt="visitor badge"/>
+  
 </p>
 
 ---
@@ -69,13 +81,5 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/shalinmodi60">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://shalin1352004.github.io/Portfolio-Shalin/">
-    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-  <a href="mailto:shalinmodi60@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+  
+  
