@@ -18,9 +18,11 @@
 ---
 
 ## 🎨 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,fastapi,react,django,tailwind,html,css,javascript,postgresql,mongodb,git,github,vscode,postman,cloudflare&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,django,fastapi,react,tailwind,postgresql,mongodb,mysql,git,github,vscode,postman,cloudinary,render&perline=7" />
 </p>
+
 
 ---
 
