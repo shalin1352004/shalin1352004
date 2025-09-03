@@ -20,7 +20,7 @@
 ## 🎨 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,django,fastapi,react,postgresql,mongodb,git,github,vscode,postman,cloudinary,render&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,django,fastapi,react,postgresql,mongodb,git,github,vscode,postman,cloudinary,render&perline=5" />
 </p>
 
 
