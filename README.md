@@ -3,6 +3,7 @@
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Software+Developer;AI%2FML+Enthusiast;Lifelong+Learner;FastAPI+%2B+Cloud+Integrations" alt="Typing SVG" />
+  ---
   <a href="https://linkedin.com/in/shalinmodi60">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
