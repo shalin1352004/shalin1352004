@@ -47,14 +47,14 @@
 
 ### ⚡ Stats & Streaks
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalin1352004&show_icons=true&theme=radical&count_private=true" height="200"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalin1352004&theme=radical&date_format=j%20M%5B%20Y%5D" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shalin1352004&show_icons=true&theme=radical&count_private=true" width="45%"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalin1352004&theme=radical&date_format=j%20M%5B%20Y%5D" width="45%"/>
 </p>
 
 ### 📊 Languages & Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalin1352004&layout=compact&theme=gruvbox&langs_count=10" height="200"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shalin1352004&theme=solarized_dark&utcOffset=5.5" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalin1352004&layout=compact&theme=gruvbox&langs_count=10" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shalin1352004&theme=solarized_dark&utcOffset=5.5" width="45%"/>
 </p>
 
 ### 🔥 Contributions & Achievements
