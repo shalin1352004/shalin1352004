@@ -40,7 +40,7 @@
 ## 📌 Featured Projects
 | 🏆 Project | 📖 Description | ⚙️ Tech Stack | 🔗 Link |
 |------------|---------------|---------------|---------|
-| **NextGenBuy** | E-commerce accessories website | Django, Python | [🔗 View](#) |
+| **NextGenBuy** | E-commerce accessories website | FastAPI, Python | [🔗 View](#) |
 | **Student Management System** | Student data & result analysis | Django, Python | [🔗 View](#) |
 | **SkillSwapper** | Skill swapping platform (Hackathon 2025) | FastAPI, Python | [🔗 View](#) |
 | **ClassyKicks** | Shoe store with brand & price filters | Django, PostgreSQL, Tailwind | [🔗 View](#) |
