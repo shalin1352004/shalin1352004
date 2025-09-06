@@ -1,5 +1,5 @@
 <!-- Title Section -->
-<h1 align="center">🌟 Hello Coders, I'm <span style="color:#00FFFF;">Shalin Modi</span> 🌟</h1>
+<h4 align="center">🌟 Hello Coders, I'm <span style="color:#00FFFF;">Shalin Modi</span> 🌟</h4>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Software+Developer;AI%2FML+Enthusiast;Lifelong+Learner;FastAPI+%2B+Cloud+Integrations" alt="Typing SVG" />
