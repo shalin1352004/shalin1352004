@@ -69,7 +69,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shalin1352004&theme=solarized_dark&utcOffset=5.5" width="45%"/>
 </p>
 ---
-##🔥 Contributions & Achievements
+## 🔥 Contributions & Achievements
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shalin1352004&theme=github-compact&bg_color=0f0c29&color=ff0080&line=00c6ff&point=ffffff" width="95%"/>
 </p>
